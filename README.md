@@ -4,12 +4,12 @@
 - Focus on combat and exploration
 
 # Areas
-- Homeland (Here)
+- Homeland (Here/Where We Are)
     - Village of Beginnings
     - No Man's Land
     - Silver Coast
-- Deepest Depths (Down)
-- Spiral of Emotion (Up)
+- Deepest Depths (Down/Below)
+- Spiral of Emotion (Up/Above)
     - No Man's Sky
-- The Otherside (Opposite)
-- Great Blue (Around)
+- The Otherside (Opposite/Inverse)
+- Great Blue (Around/Surrounding)
